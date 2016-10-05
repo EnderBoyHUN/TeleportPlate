@@ -1,0 +1,8 @@
+# lang values: en, de, hu, custom
+lang: en
+customLang:
+  successfulTeleport : "§aTeleporting..."
+  noPermission : "§cNo permission for create TeleportPlate"
+  badLength : "§cFew or many Number in second line (3)"
+  noNummer : "§cThis no Number."
+  noExistsWorld : "§cThis world does not exist."
