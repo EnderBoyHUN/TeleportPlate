@@ -69,6 +69,7 @@ public class MoveEvent implements Listener {
 						
 						
 						e.getPlayer().teleport(l);
+						e.getPlayer().playSound(l,Sound.ENTITY_ENDERMEN_TELEPORT,1,1);
 						e.getPlayer().sendMessage( lang.successfulTeleport );
 						
 						
