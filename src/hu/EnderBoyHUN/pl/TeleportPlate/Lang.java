@@ -37,6 +37,13 @@ public class Lang {
 				noNummer = "§cEs nicht Zahl(en)";
 				noExistsWorld = "§cDiese Welt nicht existieren.";
 				break;
+			case "es":
+				successfulTeleport = "§aTeletransportando...";
+				noPermission = "§cNo tienes permiso para crear un TeleportPlate.";
+				badLength = "§cHaz puesto pocos/muchos numeros en la linea 3.";
+				noNummer = "§cEso no es un numero.";
+				noExistsWorld = "§cEse mundo no existe.";
+				break;
 			case "custom":
 				successfulTeleport = conf.getString("customLang.successfulTeleport");
 				noPermission = conf.getString("customLang.noPermission");
