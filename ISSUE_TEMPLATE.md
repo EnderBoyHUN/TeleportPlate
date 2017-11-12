@@ -1,6 +1,5 @@
-#ISSUE
 ## General info
-* Plugin versio:
-* Mc versio:
+* Plugin versio: []
+* Mc versio: []
 
 ## Problame:
